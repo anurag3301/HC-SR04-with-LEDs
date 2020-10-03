@@ -82,4 +82,4 @@ except KeyboardInterrupt:       #use KeyboardInterrupt to stop the program
 
 #bacically here the program first take a inital reading of the position of the
 #object and after this the led would turn on proportional to this distance.
-#hope its clear.
+#hope its clear
